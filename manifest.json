@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Acessibilidade para Todos",
+  "version": "1.0",
+  "description": "Extensão para tornar sites mais acessíveis.",
+  "permissions": ["activeTab", "storage"],
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["main.js"],
+      "css": ["style.css"]
+    }
+  ]
+}
