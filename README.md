@@ -26,6 +26,8 @@ Nossa extensão foi criada para melhorar a usabilidade do site com as seguintes 
 <hr>
 🌗 Ajuste de Contraste: Melhore a visibilidade ajustando o contraste da página.
 <br>
+<br>
+<hr>
 🔊 Leitura de Texto: Escute o conteúdo do site com nossa funcionalidade de leitura automática.
 <br>
 <br>
