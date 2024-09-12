@@ -1,4 +1,5 @@
 🌐 Site de Acessibilidade para Estudantes 📚
+<br>
 Bem-vindo ao projeto Site de Acessibilidade! Este site foi desenvolvido para ajudar estudantes a acessarem conteúdos educacionais de maneira mais inclusiva e acessível. Oferecemos apostilas, exercícios e uma extensão incrível que torna a navegação mais fácil para todos. 👩‍🏫👨‍🎓
 <hr>
 <br>
