@@ -1,0 +1,115 @@
+/* Fontes e estilo padrão */  
+body {  
+    font-family: 'Nunito', sans-serif; /* Aplica a fonte Nunito a todo o corpo da página */ 
+    overflow-x: hidden; 
+}  
+
+* {  
+    margin: 0; 
+}  
+
+header {  
+    width: 100%;  
+    height: 100px;  
+    background-color: #078DFD;  
+    display: flex; /* Flexbox para alinhar itens */  
+    align-items: center; /* Alinha verticalmente no centro */  
+    
+}  
+
+.nome {  
+    color: #ffffff;  
+    margin-right: 590px; /* Espaçamento entre o título e o menu */  
+    margin-left: 90px;
+    font-size: 35px;
+}  
+
+
+nav {  
+    display: flex; /* Mantém os itens do menu lado a lado */  
+}  
+
+nav ul {  
+    list-style: none; /* Remove as bolinhas da lista */  
+    padding: 0; /* Remove o padding padrão */  
+    display: flex; /* Flexbox para alinhar itens do menu */  
+}  
+
+nav ul li {  
+    margin: 0 15px; /* Espaçamento entre os itens do menu */  
+}  
+
+nav ul li a {  
+    text-decoration: none; /* Remove o sublinhado dos links */  
+    color: #FFFF; /* Cor do texto dos links */  
+    font-weight: bold; /* Texto em negrito */  
+}  
+
+nav ul li a:hover {  
+    color: #FF7F30; /* Cor do texto ao passar o mouse */  
+}  
+
+main {  
+    width: 100%;  
+    height: 420px;  
+    background-color: #078DFD;  
+    float: left;  
+}  
+.entrada {  
+    color: #FFFF;  
+    margin-left: 80px;
+    margin-top: 40px;
+    float: left;
+}  
+
+.leitura {  
+    color: #FFFF;  
+    margin-left: 80px;
+    margin-top: 5px;
+    float: left;
+}  
+
+.sub {  
+    color: #FFFF;  
+    margin-left: 80px;
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: small;
+    font-weight: 100;
+    float: left;
+}  
+
+.demonstra{
+    width: auto;
+    height: 320px;
+    color: #FFFF;
+    margin-right: 547px;
+    float: left;
+    margin-top: -125px;
+    margin-left: 930px;
+    transform: rotate(23deg);
+}
+
+.exemplo,  
+.foto,  
+.textoeimagem,  
+.descricao,  
+.corpagina,  
+.corpagina2,  
+.ultimotexto,  
+footer {  
+    width: 100%;  
+    float: left;  
+}  
+
+.exemplo { height: 350px; background-color: #DDDDDD; }  
+.foto { height: 820px; background-color: #FFFF; }  
+.textoeimagem { height: 1288px; background-color: #FFFF; }  
+.descricao { height: 1237px; background-color: #FFFF; }  
+.corpagina { height: 50px; background-color: #E1FCFF; }  
+.corpagina2 { height: 300px; background-color: #C4F5FF; }  
+.ultimotexto { height: 511px; background-color: #DDFEFF; }  
+footer {  
+    height: 368px;  
+    background-color: #FFFF;  
+}
