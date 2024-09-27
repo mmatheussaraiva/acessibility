@@ -1,6 +1,5 @@
-/* Fontes e estilo padrão */  
 body {  
-    font-family: 'Nunito', sans-serif; /* Aplica a fonte Nunito a todo o corpo da página */ 
+    font-family: 'Poppins', sans-serif; 
     overflow-x: hidden; 
 }  
 
@@ -11,48 +10,45 @@ body {
 header {  
     width: 100%;  
     height: 100px;  
-    background-color: #078DFD;  
-    display: flex; /* Flexbox para alinhar itens */  
-    align-items: center; /* Alinha verticalmente no centro */  
-    
+    background-color: #DAA38F;  
+    align-items: center;  
 }  
 
 .nome {  
-    color: #ffffff;  
-    margin-right: 590px; /* Espaçamento entre o título e o menu */  
-    margin-left: 90px;
+    color: #ffffff; 
+    margin-right: 590px;   
+    margin-left: 60px;
     font-size: 35px;
 }  
 
-
 nav {  
-    display: flex; /* Mantém os itens do menu lado a lado */  
+    display: flex;
 }  
 
 nav ul {  
-    list-style: none; /* Remove as bolinhas da lista */  
-    padding: 0; /* Remove o padding padrão */  
-    display: flex; /* Flexbox para alinhar itens do menu */  
+    list-style: none;   
+    padding: 20;   
+    display: flex;   
 }  
 
 nav ul li {  
-    margin: 0 15px; /* Espaçamento entre os itens do menu */  
+    margin: 0 10px;   
 }  
 
 nav ul li a {  
-    text-decoration: none; /* Remove o sublinhado dos links */  
-    color: #FFFF; /* Cor do texto dos links */  
-    font-weight: bold; /* Texto em negrito */  
+    text-decoration: none; 
+    color: #FFFF;
+    font-weight: bold; 
 }  
 
 nav ul li a:hover {  
-    color: #FF7F30; /* Cor do texto ao passar o mouse */  
-}  
+    color: #92ADA4; 
+}
 
 main {  
     width: 100%;  
     height: 420px;  
-    background-color: #078DFD;  
+    background-color: #DAA38F;  
     float: left;  
 }  
 .entrada {  
@@ -65,16 +61,15 @@ main {
 .leitura {  
     color: #FFFF;  
     margin-left: 80px;
-    margin-top: 5px;
-    float: left;
+    margin-top: 115px;
 }  
 
 .sub {  
     color: #FFFF;  
     margin-left: 80px;
-    margin-top: 10px;
+    margin-top: 20px;
     font-family: 'Poppins', sans-serif;
-    font-size: small;
+    font-size: large;
     font-weight: 100;
     float: left;
 }  
@@ -103,12 +98,6 @@ footer {
 }  
 
 .exemplo { height: 350px; background-color: #DDDDDD; }  
-.foto { height: 820px; background-color: #FFFF; }  
-.textoeimagem { height: 1288px; background-color: #FFFF; }  
-.descricao { height: 1237px; background-color: #FFFF; }  
-.corpagina { height: 50px; background-color: #E1FCFF; }  
-.corpagina2 { height: 300px; background-color: #C4F5FF; }  
-.ultimotexto { height: 511px; background-color: #DDFEFF; }  
 footer {  
     height: 368px;  
     background-color: #FFFF;  

@@ -1,11 +1,8 @@
-const header = document.getElementById('header');  
-
-// Adiciona um evento para mostrar o header quando o mouse estiver na área do main  
-document.querySelector('main').addEventListener('mouseenter', () => {  
-    header.classList.add('show');  
-});  
-
-// Adiciona um evento para esconder o header quando o mouse sair da área do main  
-document.querySelector('main').addEventListener('mouseleave', () => {  
-    header.classList.remove('show');  
-});
+function scrollToSection(id) {
+    document.getElementById(id).scrollIntoView({ behavior: 'smooth' });
+    document.body.scrollTop = 0; // For Chrome, Firefox, IE and Opera   
+    document.documentElement.scrollTop = 0; // For Safari
+    history.pushState({}, '', '#' + id);
+    // Prevent default behavior of the link
+    return false;
+}
