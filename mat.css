@@ -54,3 +54,104 @@ h1 {
     font-family: 'Poppins', sans-serif;
     color: #333;
 }
+
+.geoplana {
+    width: auto;
+    height: 360px;
+    margin-left: 230px;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+section h2 {
+    margin-bottom: 20px;
+}
+
+.content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px;
+}
+
+.content div {
+    width: 30%;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.cta {
+    background: #28a745;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.cta h3 {
+    margin-bottom: 10px;
+}
+
+.cta a {
+    background: #fff;
+    color: #28a745;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.form-container {
+    background: white;
+    color: #fff;
+    padding: 40px;
+    text-align: center;
+}
+
+.form-container form {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.form-container input, .form-container textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+}
+
+.form-container input[type="submit"] {
+    background: #28a745;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #333;
+    color: #fff;
+}
