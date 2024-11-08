@@ -1,0 +1,62 @@
+body {  
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+    background-color: #8cc1f7;  
+}  
+ 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 250px;
+    height: 100%;
+    background-color: #177fab;
+    padding-top: 2px;
+}
+ 
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+ 
+.sidebar ul li {
+    margin: 10px 0;
+}
+ 
+.sidebar ul li button {
+    width: 100%;
+    padding: 10px;
+    background-color: #8cc1f7;
+    color: #987D61;
+    border: none;
+    cursor: pointer;
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+}
+ 
+.sidebar ul li button:hover {
+    color: #555;
+}
+ 
+.main-content {
+    margin-left: 270px;
+    padding: 20px;
+}
+ 
+h1 {
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+}
+ 
+.tabela {
+    width: 80%; /* Ajusta a largura para 100% do elemento pai */
+    height: 190px;
+    border: 2px solid black; /* Adiciona uma borda */
+    border-radius: 10px; /* Arredonda os cantos */
+}
