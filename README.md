@@ -7,12 +7,12 @@ Bem-vindo ao projeto Site de Acessibilidade! Este site foi desenvolvido para aju
 <br>
 <br>
 <hr>
-📘 Conteúdo
+📘 Conteúdo<br>
 Apostilas e Exercícios: Tenha acesso a materiais de estudo e atividades interativas para reforçar seu aprendizado.
 <br>
 <br>
 <hr>
-🛠️ Extensão de Acessibilidade
+🛠️ Extensão de Acessibilidade<br>
 Nossa extensão foi criada para melhorar a usabilidade do site com as seguintes funcionalidades:
 <br>
 <br>
@@ -37,14 +37,14 @@ Nossa extensão foi criada para melhorar a usabilidade do site com as seguintes 
 <br>
 <br>
 <hr>
-🧑‍💻 Como Usar
+🧑‍💻 Como Usar<br>
 Navegue pelo site e explore os conteúdos educacionais interativos.
 Instale nossa extensão de acessibilidade no seu navegador para personalizar sua experiência.
 Precisa de ajuda? Converse com nosso Chatbot integrado!
 <br>
 <br>
 <hr>
-🔧 Tecnologias Utilizadas
+🔧 Tecnologias Utilizadas<br>
 HTML5: Estrutura e interatividade.
 CSS3: Estilos e acessibilidade visual.
 JavaScript: Funcionalidades dinâmicas.
@@ -52,7 +52,7 @@ Manifest: Desenvolvimento da extensão
 <br>
 <br>
 <hr>
-💻 Demonstração Interativa
+💻 Demonstração Interativa<br>
 Clique nos botões abaixo para experimentar algumas das funcionalidades diretamente no GitHub!
 <br>
 <br>
