@@ -1,6 +1,6 @@
 # 🌐 **Site de Acessibilidade para Estudantes** 📚  
 
-Bem-vindo ao **Site de Acessibilidade**, um projeto desenvolvido para transformar a educação em uma experiência mais inclusiva e acessível. Nosso objetivo é oferecer ferramentas e conteúdos que auxiliem estudantes, professores e instituições a garantirem o aprendizado para todos, sem barreiras.  
+Bem-vindo ao **AcessívelMente**, um projeto desenvolvido para transformar a educação em uma experiência mais inclusiva e acessível. Nosso objetivo é oferecer ferramentas e conteúdos que auxiliem estudantes, professores e instituições a garantirem o aprendizado para todos, sem barreiras.  
 
 ---
 
