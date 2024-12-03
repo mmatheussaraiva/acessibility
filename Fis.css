@@ -60,3 +60,19 @@ h1 {
     border: 2px solid black; /* Adiciona uma borda */
     border-radius: 10px; /* Arredonda os cantos */
 }
+
+.conteudo {
+    margin-top: 20px;
+}
+
+.frase {
+    font-family: 'Poppins', sans-serif;
+    margin: 10px 0;
+    cursor: pointer;
+    color: #000000;
+}
+
+.frase:hover {
+    color: #177fab; /* Muda a cor ao passar o mouse */
+}
+
